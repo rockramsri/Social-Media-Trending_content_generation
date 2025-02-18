@@ -1,6 +1,6 @@
 # :sparkles: Social Media Trending Content Generation
 
-	:rocket: A multi-platform content generation system that analyzes trending data from Twitter, Reddit, and YouTube, generates content recommendations with transcripts & analytics, and even creates deepfake videos using open-source models. Includes an animated avatar demo and a React-based UI for user interaction.
+:rocket: A multi-platform content generation system that analyzes trending data from Twitter, Reddit, and YouTube, generates content recommendations with transcripts & analytics, and even creates deepfake videos using open-source models. Includes an animated avatar demo and a React-based UI for user interaction.
 
 ## :star: Features & Capabilities
 
